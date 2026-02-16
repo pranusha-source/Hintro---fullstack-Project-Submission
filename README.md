@@ -5,21 +5,21 @@ The system helps teams organize workflow efficiently by categorizing tasks into 
 
 
 hintro-project
-│── server.js
-│── package.json
-│── .env
-│
-├── config
-│     └── db.js
-│
-├── models
-│     └── Task.js
-│
-├── routes
-│     └── taskRoutes.js
-│
-├── controllers
-│     └── taskController.js
+   server.js
+   package.json
+   .env
+
+config
+      db.js
+
+ models
+     Task.js
+
+routes
+     taskRoutes.js
+
+ controllers
+     taskController.js
 
 By using  below command install packages
 
