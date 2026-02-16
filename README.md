@@ -209,7 +209,7 @@ Body → raw → JSON
 }
 
 DELETE TASK (DELETE)
-http://localhost:5000/api/tasks/65f2c9c123abc
+
 
 
 Click Send
@@ -229,8 +229,7 @@ Example:
 
 65f2c9c123abc
 
-URL:
-http://localhost:5000/api/tasks/65f2c9c123abc
+
 
 Body:
 {
