@@ -188,8 +188,6 @@ In Postman:
 
 Method → POST
 
-URL → http://localhost:5000/api/tasks
-
 Body → raw → JSON
 
 {
